@@ -1,0 +1,9 @@
+.icon-container-default {
+  transform: scale(0.8) translateY(85%);
+  transition: 500ms;
+}
+
+.icon-container-hovered {
+  transform: scale(0.8) translateY(25%);
+  transition: 500ms;
+}
